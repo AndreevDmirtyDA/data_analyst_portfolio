@@ -9,6 +9,7 @@
 - Средства визуализации данных: PowerBi
 # Проекты
 - Проект 1: Калькулятор юнит-экономики онлайн-школы
+  \(<a>\)https://docs.google.com/spreadsheets/d/1y8QGvUYRVrwD2iC35vIQHA3_TlwTeJ-B/edit?usp=drive_link&ouid=118365186043435571634&rtpof=true&sd=true
 <br />  - Что нужно было сделать:
 <br />Задачи :
     - выйти на 4000 активных студентов
