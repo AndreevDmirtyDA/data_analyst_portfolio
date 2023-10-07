@@ -51,3 +51,4 @@
 Выводы (итоги):
 Итог №1
 Итог №2
+<body style="backgruond-color:powderblue;"> 
